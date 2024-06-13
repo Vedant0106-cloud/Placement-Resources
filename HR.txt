@@ -1,26 +1,19 @@
-Ceo,Cofounder- Kishor Patil
-Chairman- Ravi Pandit
-Founded in- 1990
-Employees(India)- 5000-10000
-Specialization-embedded software, AI, and digital solutions
+TCS
 
-Strengths- Great Team player, Self-motivated, Quick learner, patience
-Weakness- I am more detail-oriented, nervous 
-Short Term- To learn and imcrease my skillset
-Long-term goal- To achieve a good position where I can build my career and help the organization too.
+Ceo-  Mr. K. Krithivasan
+Headquarter Located -  Mumbai
+Founded in- 1 April 1968
+Founded by :- Mr. Faquir Chand Kohli and J.R.D Tata
+Employees(India)-  
+614795 in India
+702454 worldwide
 
-KPIT is a global partner to the automotive and Mobility ecosystem for making software-defined vehicles a reality. 
-It provides embedded software and product engineering services to automotive companies. 
+Specialization-  TCS believes in the power of inspiration and invention to transform industries and solve pressing problems faced by society. The company's research and innovation team applies scientific rigor and a collaborative mindset to achieve these goals.
 
-Awards- 2021 Global Over-the-air (OTA) and Cloud Platform Technology Innovation Leadership Award
+Technologies working on -  Automation, IOT, AI, Digital Twin, AWS, Mobility Controller, Blockchain, Cyber Security
 
-Mission- To create technologies for a better world. KPIT act towards creating a green and clean world by collaborating with their customers and partners, and with the mission to integrate with them to build a sustainable environment.
+Mission:- To help customers achieve their business objectives by providing innovative, best-in-class consulting, IT solutions and services. To make it a joy for all stakeholders to work with TCS.
 
-Where do you see yourself in 5yrs:
-My first priority is to join this company. After 5 years, I would like to see myself a more Mature, Experienced, Knowledgeble and Responsible person in your company and contributing to the better growth and success of the organization.
+Vision:-   Tata Consultancy Services (TCS) has a vision to help clients create the future by building greater futures through innovation and collective knowledge.
 
-Why to work:
-I feel that with my current skill sets and my experience in the c++ domain, the job requirements for this role presented are a perfect match for me. Besides, I have researched your company and found that it has impressive and promising projections which made me excited to be a part of the amazing future. I would take pride in working under the great leadership of this company and I found this place to be a perfect fit for utilizing my expertise along with the promising aspect of personal growth
-
-why to hire:
-As a fresher i think i will be a great fit for this role, since i am a quick learner and highly passionate about pursuing a carrer in this industry. I researched kpit on its mission and vission and i am sure i can deliver everything that you are looking for in a candidate.
+Awards-   2023 Microsoft Partner of the Year Award in the category MVP Industry Solutions Global Systems Integrator (GSI)
